@@ -1,0 +1,15 @@
+{
+  "name": "ohai",
+  "version": "1.0.0",
+  "description": "A silly test of jsdoc annotated JavaScript",
+  "scripts": {
+    "start": "node test.js",
+    "compile": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Justin Beckwith <justin.beckwith@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}

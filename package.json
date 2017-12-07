@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A silly test of jsdoc annotated JavaScript",
   "scripts": {
-    "start": "node test.js",
+    "start": "node build/consumer.js",
     "compile": "tsc -p ."
   },
   "keywords": [],
